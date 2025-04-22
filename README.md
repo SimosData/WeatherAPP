@@ -1,6 +1,6 @@
 # WeatherAPP
 
-WELCOME TO MY WEATHER APP
+WELCOME TO MY WEATHER REACT WEATHER APP !!!
 
 To be able to run this app  
 
